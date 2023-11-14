@@ -22,7 +22,7 @@ php artisan key:generate
 
 Buat database dan sesuaikan pada file .env, kemudian jalankan migrasi
 ```
-php artisan migrate --seed
+php artisan migrate
 ```
 
 Jalankan proyek dengan mengetikan perintah
